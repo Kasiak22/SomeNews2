@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SomeNews</string>
+    <string name="empty">No news for now</string>
+    <string name="loading">Loading on</string>
+    <string name="error1">Error closing input stream</string>
+    <string name="error_url">Error with creating URL</string>
+    <string name="error_res">Error response code:</string>
+    <string name="error_JSON">Problem retrieving the news JSON results.</string>
+    <string name="error_date">Problem with the news date</string>
+    <string name="error_pars">Problem parsing the news JSON results</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">0</string>
+    <!-- Strings For choose section Preference [CHAR LIMIT=30] -->
+    <string name="settings_section_label">Choose your section</string>
+    <string name="settings_section_by_key" translatable="false">section</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_magnitude_value</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_magnitude_label">Magnitude</string>
+    <string name="settings_order_by_magnitude_value" translatable="false">magnitude</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_type_by_label">type</string>
+    <string name="settings_type_by_value" translatable="false">type</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_section">
+        <item>Politics</item>
+        <item>Stage</item>
+        <item>Sport</item>
+        <item>Environment</item>
+        <item>Business</item>
+        <item>Books</item>
+    </string-array>
+
+    <string-array name="section_value">
+        <item>politics</item>
+        <item>stage</item>
+        <item>sport</item>
+        <item>environment</item>
+        <item>business</item>
+        <item>books</item>
+    </string-array>
+
+    <string-array name="selectionData">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="select_type">
+        <item>Article</item>
+        <item>Poll</item>
+        <item>Video</item>
+        <item>Liveblog</item>
+    </string-array>
+
+    <string-array name="type_value">
+        <item>article</item>
+        <item>poll</item>
+        <item>video</item>
+        <item>liveblog</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings">
+
+    <ListPreference
+        android:defaultValue="null"
+        android:entries="@array/select_section"
+        android:entryValues="@array/section_value"
+        android:key="section"
+        android:title="Choose selection" />
+
+    <ListPreference
+        android:defaultValue="null"
+        android:entries="@array/select_type"
+        android:entryValues="@array/type_value"
+        android:key="type"
+        android:title="Choose type" />
+
+</PreferenceScreen>
